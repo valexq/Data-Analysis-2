@@ -13,9 +13,8 @@
 Proyecto del segundo evento evaluativo del curso de Análisis de Datos. 
 Se realiza un análisis exploratorio completo (EDA) sobre el dataset de 
 Calidad del Aire en Colombia del IDEAM, disponible en Datos Abiertos Colombia.
-El análisis incluye exploración diferentes bases de datos, justificación de elección 
-de una de ellas, análisis exploratorio completo (EDA), visualizaciones, hipótesis,
-aplicación de técnicas de preprocesamiento y reducción de bimensionalidad.
+El análisis incluye exploración de datos, detección de valores faltantes y outliers,
+visualizaciones, hipótesis, preprocesamiento y reducción de dimensionalidad con PCA.
 
 ## Dataset
 - **Nombre:** Calidad del Aire en Colombia (Promedio Anual)
