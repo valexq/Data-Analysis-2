@@ -29,7 +29,7 @@ visualizaciones, hipótesis, preprocesamiento y reducción de dimensionalidad co
 │   ├── raw/                        # Dataset original sin modificar
 │   └── processed/                  # Datos limpios y preprocesados
 ├── notebooks/
-│   ├── 01_exploracion.ipynb        # Fase 1 — Exploración de BD (Vanessa Alfaoro)
+│   ├── 01_exploracion.ipynb        # Fase 1 — Exploración de BD (Vanessa Alfaro)
 │   ├── 02_eda_calidad.ipynb        # Fase 2 — Calidad de datos (Juan Manuel Valencia)
 │   ├── 03_eda_visual.ipynb         # Fase 2 — Análisis visual (Ziuvar Ruiz)
 │   └── 04_preprocesamiento.ipynb   # Fase 3 — Preprocesamiento y PCA (Juan Cardona)
