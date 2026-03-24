@@ -33,8 +33,6 @@ visualizaciones, hipótesis, preprocesamiento y reducción de dimensionalidad co
 │   ├── 02_eda_calidad.ipynb        # Fase 2 — Calidad de datos (Juan Manuel Valencia)
 │   ├── 03_eda_visual.ipynb         # Fase 2 — Análisis visual (Ziuvar Ruiz)
 │   └── 04_preprocesamiento.ipynb   # Fase 3 — Preprocesamiento y PCA (Juan Cardona)
-├── docs/
-│   └── hipotesis_insights.md       # Hipótesis e insights del EDA
 ├── requirements.txt
 └── README.md
 ```
